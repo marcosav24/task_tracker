@@ -9,5 +9,4 @@ Un gestor de tareas de línea de comandos (CLI) desarrollado en Python.
 - Listar tareas pendientes y completadas.
 - Eliminar tareas.
 
-[https://github.com/marcosav24/task_tracker/blob/master/task_tracker.py
-](https://github.com/marcosav24/task_tracker/tree/master)
+https://roadmap.sh/projects/task-tracker
