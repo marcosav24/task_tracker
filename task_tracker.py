@@ -153,3 +153,6 @@ def main():
                 print("Numero invalido. Ingresa un numero valido\n")
         except ValueError:
             print("Entrada no valida. Ingresa un número.\n")
+
+if __name__ == "__main__":
+    main()
